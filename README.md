@@ -2,7 +2,7 @@
 
 # Project Name
 
-> One paragraph statement about the project.
+> Hello Microverse project.
 
 ![screenshot](./app_screenshot.png)
 
@@ -10,8 +10,8 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
+- Major languages: Html/Css
+- Frameworks: Vscode
 - Technologies used
 
 ## Live Demo
@@ -28,10 +28,13 @@ Additional description about the project and its features.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
+Web browser 
+Code editor
 ### Setup
-
+Download the repo, if you don't know how to do it, just click here!
+Open the index file with your browser.
 ### Install
+No need to install something!
 
 ### Usage
 
@@ -45,15 +48,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- github: Brahimdidi
+-Brahimgb1team@gmail.com
+linkedin Brahimdidi
 
 ## 🤝 Contributing
 
