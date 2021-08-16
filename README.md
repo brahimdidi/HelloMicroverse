@@ -2,7 +2,7 @@
 
 # Project Name
 
-> One paragraph statement about the project.
+> Hello Microverse project.
 
 ![screenshot](./app_screenshot.png)
 
@@ -10,8 +10,8 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
+- Major languages: Html/Css
+- Frameworks: Vscode
 - Technologies used
 
 ## Live Demo
@@ -48,6 +48,7 @@ To get a local copy up and running follow these simple example steps.
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+Brahim DiDI
 
 👤 **Author2**
 
